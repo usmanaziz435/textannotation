@@ -4,7 +4,8 @@
 Goal: continuously turn raw text (e.g., support tickets) into a high-quality, versioned training set for intent classification.
 
 ## Architecture Diagram (text)
-![alt text](<Untitled (2).jpg>)
+
+![alt text](SolutionDesign.jpg)
 
 ![alt text](documentFlow.png)
 
